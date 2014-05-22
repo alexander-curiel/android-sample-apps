@@ -1,0 +1,21 @@
+INDEX VERSION 1.126+D:\SHARED\dev\android-coursera\.metadata\.plugins\org.eclipse.jdt.core
+2089116266.index
+2246590614.index
+151205006.index
+635191138.index
+703017806.index
+2763736120.index
+2276485758.index
+1564316702.index
+89802005.index
+1044642965.index
+2519268419.index
+2109581356.index
+3924970380.index
+911976812.index
+3890756957.index
+3921947512.index
+2710229495.index
+4100356530.index
+3571399910.index
+1904608682.index
